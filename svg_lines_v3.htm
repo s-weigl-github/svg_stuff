@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#myDIV {
+    --p1: grey; /* grey */
+    --p2: #ffffff; /* white */
+    --p3: #0000ff; /* blue */
+    --p4: yellow; /* yellow */
+    --p5: green; /* green */
+    --p6: #ff0000; /* red */
+  color: var(--p1);
+  background-color: var(--p2);
+  border: 0px solid currentcolor;
+}
+</style>
+</head>
+<body>
+
+<div id="myDIV">
+<svg height="500" width="500">
+  <line x1="25" y1="0" x2="500" y2="475" stroke="var(--p5)" stroke-width="2" />
+  <line x1="125" y1="0" x2="500" y2="375" stroke="var(--p3)" stroke-width="2" />
+  <line x1="225" y1="0" x2="500" y2="275" stroke="var(--p5)" stroke-width="2" />
+  <line x1="325" y1="0" x2="500" y2="175" stroke="var(--p5)" stroke-width="2" />
+  <line x1="425" y1="0" x2="500" y2="75" stroke="var(--p5)" stroke-width="2" />
+  
+  <line x1="0" y1="25" x2="475" y2="500" stroke="var(--p5)" stroke-width="2" />
+  
+  <line x1="0" y1="0" x2="0" y2="500" stroke="var(--p1)" stroke-width="1" />
+  <line x1="0" y1="500" x2="500" y2="500" stroke="var(--p1)" stroke-width="1" />
+  <line x1="500" y1="500" x2="500" y2="0" stroke="var(--p1)" stroke-width="1" />
+  <line x1="0" y1="0" x2="500" y2="0" stroke="var(--p1)" stroke-width="1" />
+</svg>
+</div>
+
+</body>
+</html>
