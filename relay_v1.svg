@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg viewBox="0 0 500 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
 
-   <g>
-        <path d="M30,30 L375,30 C422,30 422,125 375,125 L375,125 L125,125 C78,125 78,220 125,220 L125,220 L470,220" fill="none" stroke="#000000" stroke-width="25"/>
+   <g id="curve">
+        <path d="M30,30 L375,30 C422,30 422,125 375,125 L375,125 L125,125 C78,125 78,220 125,220 L125,220 L470,220" fill="none" stroke="#303030" stroke-width="25"/>
 
-        <circle cx="30" cy="30" r="25" fill="#000000"></circle>
-        <circle cx="470" cy="220" r="25" fill="#000000"></circle>
+        <circle cx="30" cy="30" r="25" fill="#303030"></circle>
+        <circle cx="470" cy="220" r="25" fill="#303030"></circle>
     </g>
-    <g>
+    <g id="overlay">
         <circle cx="30" cy="30" r="10" fill="#0ef8f8"></circle>
         <circle cx="470" cy="220" r="10" fill="#0ef8f8"></circle>
         
