@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 500 500" style="background: #010e1c" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+
+<polygon points="434.7759065022574,326.53668647301794 326.536686473018,434.7759065022574 173.46331352698206,434.7759065022574 65.22409349774264,326.536686473018 65.22409349774264,173.46331352698206 173.46331352698195,65.2240934977427 326.536686473018,65.22409349774267 434.77590650225727,173.46331352698192" fill="none" stroke="#808080" stroke-width=".5"/>
+
+<circle cx="250" cy="250" r="200" fill="none" stroke="#808080" stroke-width=".1" />
+
+
+</svg>

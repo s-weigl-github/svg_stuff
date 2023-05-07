@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 500 500" style="background: #010e1c" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+ 
+<polyline points="250,100 50,100 50,250 250,250 250,400 50,400 " stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#ff0000" stroke-width="50" opacity=".6"/>
+
+<polyline points="50,100 150,400 250,200 350,400 450,100" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#00ff00" stroke-width="50" opacity=".2"/>
+
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 500 500" style="background: #010e1c" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+
+<path d="M145,145 A150,150 0 0 0 145,355" fill="none" stroke="#abcfff" stroke-width="1" stroke-linecap="round" />
+
+<path d="M355,145 A150,150 0 0 1 355,355" fill="none" stroke="#abcfff" stroke-width="1" stroke-linecap="round" />
+
+<path d="M145,145 A150,150 0 0 0 355,145" fill="none" stroke="#abcfff" stroke-width="1" stroke-linecap="round" />
+<path d="M355,355 A150,150 0 0 0 145,355" fill="none" stroke="#abcfff" stroke-width="1" stroke-linecap="round"/>
+
+<circle cx="250" cy="482" r="150" fill="none" stroke="#ffffff" stroke-width=".1" />
+<circle cx="250" cy="250" r="160" fill="none" stroke="#ffffff" stroke-width=".1" />
+
+
+</svg>
+
+
+<line x1="250" x2="250" y1="0" y2="500" stroke="#ffffff" stroke-width=".1" />
+<line x1="0" x2="500" y1="250" y2="250" stroke="#ffffff" stroke-width=".1" />
+<line x1="0" x2="500" y1="0" y2="500" stroke="#ffffff" stroke-width=".1" />
+<line x1="0" x2="500" y1="500" y2="0" stroke="#ffffff" stroke-width=".1" />
+
+<circle cx="250" cy="250" r="150" fill="none" stroke="#ffffff" stroke-width=".1" />
+
+<line x1="145" x2="145" y1="250" y2="100" stroke="#ffffff" stroke-width=".1" />
+<circle cx="145" cy="145" r="5" fill="#ff0000" stroke="none" stroke-width=".1" />
+<circle cx="145" cy="355" r="5" fill="#ff0000" stroke="none" stroke-width=".1" />
+<circle cx="355" cy="145" r="5" fill="#ff0000" stroke="none" stroke-width=".1" />
+<circle cx="355" cy="355" r="5" fill="#ff0000" stroke="none" stroke-width=".1" />

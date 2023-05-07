@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 350 710" style="background: #010e1c" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+
+<g id="" fill="#ff3131">
+    <circle cx="10" cy="10" r="5"/>
+    <text x="30" y="15">#FF3131 - Neon Red (Fire Red)</text>
+</g>
+<g id="" fill="#ff9900">
+    <circle cx="10" cy="25" r="5"/>
+    <text x="30" y="30">#FF9900 - Orange (Amber Orange)</text>
+</g>
+<g id="" fill="#ff3c90">
+    <circle cx="10" cy="40" r="5"/>
+    <text x="30" y="45">#FF3C90 - Pink (Hot Pink)</text>
+</g>
+<g id="" fill="#ff9f63">
+    <circle cx="10" cy="55" r="5"/>
+    <text x="30" y="60">#FF9F63 - Peach (Orange/Pink)</text>
+</g>
+<g id="" fill="#ff9f93">
+    <circle cx="10" cy="70" r="5"/>
+    <text x="30" y="75">#FF9F93 - Salmon (Pink/Orange)</text>
+</g>
+<g id="" fill="#00ff39">
+    <circle cx="10" cy="85" r="5"/>
+    <text x="30" y="90">#00FF39 - Green (Lawn Green)</text>
+</g>
+<g id="" fill="#93ffcf">
+    <circle cx="10" cy="100" r="5"/>
+    <text x="30" y="105">#93FFCF - Lt. Aqua (Lt. Green/Blue)</text>
+</g>
+<g id="" fill="#93ffff">
+    <circle cx="10" cy="115" r="5"/>
+    <text x="30" y="120">#93FFFF - Lt. Turquoise (Lt. Blue/Green)</text>
+</g>
+<g id="" fill="#69cfff">
+    <circle cx="10" cy="130" r="5"/>
+    <text x="30" y="135">#69CFFF - Sky Blue (Lt. Blue)</text>
+</g>
+<g id="" fill="#96c3ff">
+    <circle cx="10" cy="145" r="5"/>
+    <text x="30" y="150">#96C3FF - Clear Blue (Silver Blue)</text>
+</g>
+<g id="" fill="#FFF0C6">
+    <circle cx="10" cy="160" r="5"/>
+    <text x="30" y="165">#FFF0C6 - 3500 White (warm White)</text>
+</g>
+<g id="" fill="#fff0f0">
+    <circle cx="10" cy="175" r="5"/>
+    <text x="30" y="180">#FFF0F0 - 4500 White (Day White)</text>
+</g>
+<g id="" fill="#f0ffff">
+    <circle cx="10" cy="190" r="5"/>
+    <text x="30" y="195">#F0FFFF - 6500 White (Cool White)</text>
+</g>
+<g id="" fill="#c33c03">
+    <circle cx="10" cy="205" r="5"/>
+    <text x="30" y="210">#C33C03 - Brick Red (Dark Red/Orange)</text>
+</g>
+<g id="" fill="#ff0f63">
+    <circle cx="10" cy="220" r="5"/>
+    <text x="30" y="225">#FF0F63 - Rose (Deep Rose)</text>
+</g>
+<g id="" fill="#ff6f93">
+    <circle cx="10" cy="235" r="5"/>
+    <text x="30" y="240">#FF6F93 - Coral (Bright Pink)</text>
+</g>
+<g id="" fill="#ff6900">
+    <circle cx="10" cy="250" r="5"/>
+    <text x="30" y="255">#FF6900 - Orange (Orange)</text>
+</g>
+<g id="" fill="#ffff69">
+    <circle cx="10" cy="265" r="5"/>
+    <text x="30" y="270">#FFFF69 - Lt. Gold (Banana Gold)</text>
+</g>
+<g id="" fill="#ffff39">
+    <circle cx="10" cy="280" r="5"/>
+    <text x="30" y="285">#FFFF39 - Clear Gold (Lemon Yellow)</text>
+</g>
+<g id="" fill="#cfff39">
+    <circle cx="10" cy="295" r="5"/>
+    <text x="30" y="300">#CFFF39 - Chartreuse (Greenish Yellow)</text>
+</g>
+<g id="" fill="#63ff00">
+    <circle cx="10" cy="310" r="5"/>
+    <text x="30" y="315">#63FF00 - Kryptonite Green (Yellow/Green)</text>
+</g>
+<g id="" fill="#93ffcf">
+    <circle cx="10" cy="325" r="5"/>
+    <text x="30" y="330">#93FFCF - Rich Aqua (Blue/Green)</text>
+</g>
+<g id="" fill="#93ffff">
+    <circle cx="10" cy="340" r="5"/>
+    <text x="30" y="345">#93FFFF - Rich Turquoise (Green Blue)</text>
+</g>
+<g id="" fill="#ff6fff">
+    <circle cx="10" cy="355" r="5"/>
+    <text x="30" y="360">#FF6FFF - Warm Violet (Pink Violet)</text>
+</g>
+<g id="" fill="#ffcfc6">
+    <circle cx="10" cy="370" r="5"/>
+    <text x="30" y="375">#FFCFC6 - White Lavendar (Orchid)</text>
+</g>
+<g id="" fill="#ff3999">
+    <circle cx="10" cy="385" r="5"/>
+    <text x="30" y="390">#FF3999 - Lt. Magenta (Purple/Pink)</text>
+</g>
+<g id="" fill="#cf93ff">
+    <circle cx="10" cy="400" r="5"/>
+    <text x="30" y="405">#CF93FF - Cool Violet (Blue/Violet)</text>
+</g>
+<g id="" fill="#3f9fff">
+    <circle cx="10" cy="415" r="5"/>
+    <text x="30" y="420">#3F9FFF - Lt. Navy Blue (Enriched Blue)</text>
+</g>
+<g id="" fill="#009fff">
+    <circle cx="10" cy="430" r="5"/>
+    <text x="30" y="435">#009FFF - Royal Blue (Rich Daybreak Blue)</text>
+</g>
+<g id="" fill="#ffffff">
+    <circle cx="10" cy="445" r="5"/>
+    <text x="30" y="450">#FFFFFF - 5500 White (Full Color White)</text>
+</g>
+<g id="" fill="#ffffc9">
+    <circle cx="10" cy="460" r="5"/>
+    <text x="30" y="465">#FFFFC9 - 2800 White (Warm Golden White)</text>
+</g>
+<g id="" fill="#cf0666">
+    <circle cx="10" cy="475" r="5"/>
+    <text x="30" y="480">#CF0666 - Cranberry (Blue Tinged Red)</text>
+</g>
+<g id="" fill="#c000ff">
+    <circle cx="10" cy="490" r="5"/>
+    <text x="30" y="495">#C000FF - Violet (Deep Warm Violet)</text>
+</g>
+<g id="" fill="#c00fff">
+    <circle cx="10" cy="505" r="5"/>
+    <text x="30" y="510">#C00FFF - Purple (Deep Cool Purple)</text>
+</g>
+<g id="" fill="#ff00ff">
+    <circle cx="10" cy="520" r="5"/>
+    <text x="30" y="525">#FF00FF - Lavendar (Warm Purple)</text>
+</g>
+<g id="" fill="#cf0000">
+    <circle cx="10" cy="535" r="5"/>
+    <text x="30" y="540">#CF0000 - Coated Ruby (Cerry)</text>
+</g>
+<g id="" fill="#ff0000">
+    <circle cx="10" cy="550" r="5"/>
+    <text x="30" y="555">#FF0000 - Clear Ruby (Ruby Red)</text>
+</g>
+<g id="" fill="#ff6000">
+    <circle cx="10" cy="565" r="5"/>
+    <text x="30" y="570">#FF6000 - Orange (Saturated Orange)</text>
+</g>
+<g id="" fill="#ff6600">
+    <circle cx="10" cy="580" r="5"/>
+    <text x="30" y="585">#FF6600 - Coated Orange (Bright Orange)</text>
+</g>
+<g id="" fill="#ffc000">
+    <circle cx="10" cy="595" r="5"/>
+    <text x="30" y="600">#FFC000 - Amber Gold (Honey Gold)</text>
+</g>
+<g id="" fill="#ffff00">
+    <circle cx="10" cy="610" r="5"/>
+    <text x="30" y="615">#FFFF00 - Yellow Gold (Saturated Yellow)</text>
+</g>
+<g id="" fill="#c0ff00">
+    <circle cx="10" cy="625" r="5"/>
+    <text x="30" y="630">#C0FF00 - Light Lime (Pale Lime)</text>
+</g>
+<g id="" fill="#00ff33">
+    <circle cx="10" cy="640" r="5"/>
+    <text x="30" y="645">#00FF00 - Coated Green (Bright Emerald)</text>
+</g>
+<g id="" fill="#00c369">
+    <circle cx="10" cy="655" r="5"/>
+    <text x="30" y="660">#00C369 - Clear Green (Mild Leaf Green)</text>
+</g>
+<g id="" fill="#00ffff">
+    <circle cx="10" cy="670" r="5"/>
+    <text x="30" y="675">#00FFFF - Turquoise (Saturated Green/Blue)</text>
+</g>
+<g id="" fill="#009cff">
+    <circle cx="10" cy="685" r="5"/>
+    <text x="30" y="690">#009CFF - Coated Bromo Blue (Bright Deep Blue)</text>
+</g>
+<g id="" fill="#0036ff">
+    <circle cx="10" cy="700" r="5"/>
+    <text x="30" y="705">#0036FF - Clear Bromo Blue (Cobalt)</text>
+</g>
+
+</svg>
+

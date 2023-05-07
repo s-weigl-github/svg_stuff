@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="206px" viewBox="0 0 256 206" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+<g id="non_overlay">
+<g id="circle" fill="#606060">
+    <g id="lower_circle">
+        <circle cx="26" cy="180" r="26" />
+        <circle cx="128" cy="180" r="26" />
+        <circle cx="77" cy="103" r="26" />
+    </g>
+    <g id="upper_circle">
+        <circle cx="230" cy="26" r="26" />
+        <circle cx="128" cy="26" r="26" />
+        <circle cx="179" cy="103" r="26" />
+    </g>
+</g>
+<g id="lines" fill="none" stroke="#606060" stroke-width="12" stroke-linecap="round">
+    <g id="upper_line">
+        <line x1="26"  y1="180" x2="77" y2="103" />
+        <line x1="77"  y1="103" x2="128" y2="180" />
+        <line x1="128" y1="180" x2="158" y2="135" />
+    </g>
+    <g id="lower_line">
+        <line x1="230" y1="26" x2="179" y2="103" />
+        <line x1="179" y1="103" x2="128" y2="26" />
+        <line x1="128" y1="26" x2="100" y2="70" />
+    </g>
+</g>
+</g>
+<g id="overlay">
+<g id="circle" fill="#0ef8f8">
+    <g id="lower_overlay_circle">
+        <circle cx="26" cy="180" r="8" />
+        <circle cx="128" cy="180" r="8" />
+        <circle cx="77" cy="103" r="8" />
+    </g>
+    <g id="upper_overlay_circle">
+        <circle cx="230" cy="26" r="8" />
+        <circle cx="128" cy="26" r="8" />
+        <circle cx="179" cy="103" r="8" />
+    </g>
+</g>
+<g id="lines" fill="none" stroke="#0ef8f8" stroke-width="4" stroke-linecap="round">
+    <g id="upper_overlay_line">
+        <line x1="26"  y1="180" x2="77" y2="103" />
+        <line x1="77"  y1="103" x2="128" y2="180" />
+        <line x1="128" y1="180" x2="158" y2="135" />
+    </g>
+    <g id="lower_overlay_line">
+        <line x1="230" y1="26" x2="179" y2="103" />
+        <line x1="179" y1="103" x2="128" y2="26" />
+        <line x1="128" y1="26" x2="100" y2="70" />
+    </g>
+</g>
+</g>
+</svg>

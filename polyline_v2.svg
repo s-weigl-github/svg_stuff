@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 500 500" style="background: #010e1c" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+
+<polyline points="250,100 250,250 100,250" stroke-linejoin="round" fill="none" stroke="#ffffff" stroke-width="50" opacity=".2"/>
+<polyline points="250,400 250,250 400,250" stroke-linejoin="round" fill="none" stroke="#ffffff" stroke-width="50" opacity=".2"/>
+
+<polyline points="100,250 100,400 250,400" stroke-linejoin="round" fill="none" stroke="#ff0000" stroke-width="50" opacity=".2"/>
+<polyline points="250,100 400,100 400,250" stroke-linejoin="round" fill="none" stroke="#ff0000" stroke-width="50" opacity=".2"/>
+
+<polyline points="50,50 450,50 450,450 50,450 50,150" stroke-linejoin="round" fill="none" stroke="#0000ff" stroke-width="50" opacity=".2"/>
+
+</svg>

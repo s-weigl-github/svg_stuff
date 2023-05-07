@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+  <circle cx="100" cy="100" r="100" stroke="none" stroke-width="none" fill="black" opacity="none" />
+  <circle cx="205" cy="205" r="100" stroke="black" stroke-width=".5" fill="#ffff00" opacity="none" />
+  <circle cx="205" cy="-5" r="100" stroke="black" stroke-width=".5" fill="#ff00ff" opacity="none" />
+  <circle cx="-5" cy="205" r="100" stroke="black" stroke-width=".5" fill="#00ffff" opacity="none" />
+  <circle cx="-5" cy="-5" r="100" stroke="black" stroke-width=".5" fill="#f0000f" opacity="none" />
+</svg> 

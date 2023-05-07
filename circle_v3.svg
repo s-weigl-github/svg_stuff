@@ -1,0 +1,13 @@
+<svg height="200" width="200">
+  <circle cx="100" cy="100" r="100" stroke="none" stroke-width="none" fill="black" opacity="none" />
+  <circle cx="100" cy="100" r="55" stroke="none" stroke-width="none" fill="#ffffff" opacity="none" />
+  <circle cx="100" cy="100" r="45" stroke="none" stroke-width="none" fill="#000000" opacity="none" />
+  <circle cx="205" cy="205" r="100" stroke="none" stroke-width="none" fill="#ffff00" opacity="none" />
+  <circle cx="205" cy="-5" r="100" stroke="none" stroke-width="none" fill="#ff00ff" opacity="none" />
+  <circle cx="-5" cy="205" r="100" stroke="none" stroke-width="none" fill="#00ffff" opacity="none" />
+  <circle cx="-5" cy="-5" r="100" stroke="none" stroke-width="none" fill="#f0000f" opacity="none" />
+  
+  <circle cx="100" cy="100" r="85" stroke="none" stroke-width="none" fill="green" opacity=".5" />
+  <circle cx="100" cy="100" r="75" stroke="none" stroke-width="none" fill="black" opacity=".3" />
+  <circle cx="100" cy="100" r="65" stroke="none" stroke-width="none" fill="#ffffff" opacity=".2" />
+</svg> 
